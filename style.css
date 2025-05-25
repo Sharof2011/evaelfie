@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+.conteiner{
+    max-width: 1200px;
+    margin: auto;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul{
+    display: flex;
+    gap: 27px;
+}
+a{
+    font-family: 'Roboto';
+font-weight: 300;
+font-size: 18px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+color: rgba(115, 115, 115, 1);
+}
+.h2{
+    width: 596px;
+height: 119px;
+top: 373px;
+left: 122px;
+font-family: 'Roboto';
+font-weight: 900;
+font-size: 50px;
+line-height: 100%;
+letter-spacing: 0%;
+margin-top: 189.03px;
+}
+.button{
+
+    width: 179px;
+    height: 53px;
+    border-radius: 7px;
+    
+font-family: 'Roboto';
+font-weight: 900;
+font-size: 20px;
+text-align: center;
+background: linear-gradient(95.2deg, #B90160 2.23%, #2E3192 99.51%);
+border: none;
+color: white;
+margin-top: 58px;
+}
+.div{
+    display: flex;
+
+    justify-content: space-between;
+}
+.h1{
+font-family: 'Roboto';
+font-weight: 400;
+font-size: 50px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 25px;
+}
+span{
+    font-family: 'Roboto';
+font-weight: 400;
+font-size: 50px;
+
+
+
+    background: linear-gradient(to right, #9b0ab9, #3b61e6); /* pushti-purp rangdan ko‘k ranggacha */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.card{
+    width: 344px;
+height: 414px;
+top: 1022px;
+left: 143px;
+background-color: rgba(255, 255, 255, 1);
+box-shadow: 0px 8px 18px pink;
+border-radius: 9px;
+}
+h3{
+    font-family: 'Roboto';
+font-weight: 700;
+font-size: 36px;
+line-height: 100%;
+letter-spacing: 0%;
+margin-top: 30px;
+}
+.p{
+    width: 289px;
+height: 106px;
+top: 1307px;
+left: 165px;
+font-family: 'Roboto';
+font-weight: 300;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+color: rgba(118, 118, 118, 1);
+margin-top: 25px;
+margin-bottom: 23px;
+}
+.dav{
+    margin-left: 22px;
+}
+.dd{
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 120px;
+    flex-wrap: wrap;
+}
+.dilar{
+    background: linear-gradient(94.31deg, rgba(212, 20, 90, 0.25) 0.96%, rgba(46, 49, 146, 0.25) 104.83%);
+ display: flex;
+ justify-content: center;
+    height: 357px;
+    top: 1661px;
+    margin-top: 225px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    margin-bottom: 68px;
+}
